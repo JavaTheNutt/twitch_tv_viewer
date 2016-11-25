@@ -1,0 +1,22 @@
+{
+  "name": "twitch_tv_viewer",
+  "description": "A twitch tv viewer built for an FCC challenge",
+  "main": "index.js",
+  "authors": [
+    "Joe Wemyss"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
